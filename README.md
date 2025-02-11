@@ -22,7 +22,20 @@ Este projeto é uma aplicação simples de **agenda de contatos** desenvolvida e
 
 ## 🚀 Exemplo de uso
 
-1. **Adicione um contato**
+1. **Ao executar o programa, você verá o seguinte menu interativo**
+   ```
+   Agenda
+
+   1 - Adicionar contato
+   2 - Lista de contatos
+   3 - Editar contato
+   4 - Favoritar contato
+   5 - Contatos favoritos
+   6 - Apagar contato
+   7 - Sair
+   ```
+
+2. **Adicione um contato**
    ```
    Nome: João
    Telefone: (11) 98765-4321
@@ -31,7 +44,7 @@ Este projeto é uma aplicação simples de **agenda de contatos** desenvolvida e
    Contato adicionado!
    ```
 
-2. **Liste seus contatos**
+3. **Liste seus contatos**
    ```
    Lista de contatos:
 
@@ -41,7 +54,7 @@ Este projeto é uma aplicação simples de **agenda de contatos** desenvolvida e
    Email: joao@email.com
    ```
 
-3. **Edite um contato**
+4. **Edite um contato**
    ```
    Qual o número do contato que deseja editar? 1
    O que deseja alterar? 1 - Nome, 2 - Telefone, 3 - Email, 4 - Favorito: 2
@@ -49,13 +62,13 @@ Este projeto é uma aplicação simples de **agenda de contatos** desenvolvida e
    Contato atualizado!
    ```
 
-4. **Marque um contato como favorito**
+5. **Marque um contato como favorito**
    ```
    Qual o número do contato que deseja favoritar? 1
    Contato adicionado aos favoritos!
    ```
 
-5. **Apague um contato**
+6. **Apague um contato**
    ```
    Qual o número do contato que deseja apagar? 1
    Contato deletado!
