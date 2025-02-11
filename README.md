@@ -20,7 +20,7 @@ Este projeto é uma aplicação simples de **agenda de contatos** desenvolvida e
 
 - Python 3
 
-## 🚀 Exemplo de uso
+## 🚀 Exemplo De Uso
 
 1. **Ao executar o programa, você verá o seguinte menu interativo**
    ```
